@@ -344,7 +344,8 @@ make.start()
  
    介紹我的Git網站https://github.com/mdecp2018/site-s40723147
 
+網誌 :https://mdecp2018.github.io/site-s40723147/content/index.html
 
-</t>
+投影片:https://127.0.0.1:8444/reveal/#/3</t>
 </tnodes>
 </leo_file>
