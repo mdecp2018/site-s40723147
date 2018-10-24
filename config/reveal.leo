@@ -21,10 +21,10 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -37,6 +37,9 @@
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
 </v>
+</v>
+<v t="leo.20181024140819.1" a="E"><vh>更改投影片</vh>
+<v t="leo.20181024140819.2"><vh>投影片內容</vh></v>
 </v>
 </v>
 </v>
@@ -325,6 +328,23 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181024140819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181024140819.2">##  40723147投影片
+
+### 虎科大機械設計工程系
+ 
+   介紹我的Git網站https://github.com/mdecp2018/site-s40723147
+
+
 </t>
 </tnodes>
 </leo_file>
