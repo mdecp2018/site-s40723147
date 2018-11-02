@@ -5,7 +5,7 @@
 
 歡迎加入:https://mildp.kcg.gov.tw/
 
-http://mdecourse.github.io/2018fall/
+CMSimfly網站:https://mdecp2018.github.io/site-s40723147/content/index.html
 
 分組示範倉儲:https://github.com/mdecp2018/site-s40723147
 
