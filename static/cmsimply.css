@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background: #85e6a0;
   padding: 20px;
 }
 confmenu
@@ -61,7 +61,7 @@ ul#css3menu1 ul{
 	-webkit-transition:opacity 0.5s;
 	-o-transition:opacity 0.5s,visibility 0.5s;
 	transition:opacity 0.5s;
-	background-color:#A2D890;
+	background-color:#2e4727;
 	border-radius:5px;
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
